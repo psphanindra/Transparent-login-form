@@ -51,7 +51,7 @@ h2{
 .loginBox input[type="text"],
 .loginBox input[type="password"]{
 	border: none;
-	background: transparent;]
+	background: transparent;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -85,27 +85,3 @@ h2{
 	text-decoration: none;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
